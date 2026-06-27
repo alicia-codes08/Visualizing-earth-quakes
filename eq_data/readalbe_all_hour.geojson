@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1782601176000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "2.4.0",
+        "count": 5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.50474762916565,
+                "place": "10 km WSW of Packwood, Washington",
+                "time": 1782599869000,
+                "updated": 1782599993590,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714035561",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uw714035561.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 35,
+                "net": "uw",
+                "code": "714035561",
+                "ids": ",uw714035561,",
+                "sources": ",uw,",
+                "types": ",origin,phase-data,",
+                "nst": 42,
+                "dmin": 0.1321,
+                "rms": 0.0700000003,
+                "gap": 156,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.5 - 10 km WSW of Packwood, Washington"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.795997619629,
+                    46.5783348083496,
+                    0.920000016689301
+                ]
+            },
+            "id": "uw714035561"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.73,
+                "place": "2 km NNW of The Geysers, CA",
+                "time": 1782599174410,
+                "updated": 1782599270161,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385446",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75385446.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "nc",
+                "code": "75385446",
+                "ids": ",nc75385446,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 10,
+                "dmin": 0.00983,
+                "rms": 0.02,
+                "gap": 63,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.7 - 2 km NNW of The Geysers, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.761001586914,
+                    38.7908325195312,
+                    1.37999999523163
+                ]
+            },
+            "id": "nc75385446"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.48,
+                "place": "11 km ESE of Willits, CA",
+                "time": 1782598859230,
+                "updated": 1782598956057,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385441",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75385441.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 34,
+                "net": "nc",
+                "code": "75385441",
+                "ids": ",nc75385441,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.08185,
+                "rms": 0.03,
+                "gap": 133,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.5 - 11 km ESE of Willits, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.233497619629,
+                    39.3766670227051,
+                    7.23000001907349
+                ]
+            },
+            "id": "nc75385441"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.98,
+                "place": "17 km S of Volcano, Hawaii",
+                "time": 1782598762820,
+                "updated": 1782598972680,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74992362",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74992362.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 60,
+                "net": "hv",
+                "code": "74992362",
+                "ids": ",hv74992362,",
+                "sources": ",hv,",
+                "types": ",origin,phase-data,",
+                "nst": 31,
+                "dmin": 0.01915,
+                "rms": 0.119999997,
+                "gap": 210,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.0 - 17 km S of Volcano, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.205001831055,
+                    19.2859992980957,
+                    6.51999998092651
+                ]
+            },
+            "id": "hv74992362"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2,
+                "place": "84 km ENE of Kodiak, Alaska",
+                "time": 1782598550270,
+                "updated": 1782598738282,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mqqkvy",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/aka2026mqqkvy.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 62,
+                "net": "ak",
+                "code": "a2026mqqkvy",
+                "ids": ",aka2026mqqkvy,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.9,
+                "rms": 0.2,
+                "gap": 249,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.0 - 84 km ENE of Kodiak, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.071,
+                    58.058,
+                    9.5
+                ]
+            },
+            "id": "aka2026mqqkvy"
+        }
+    ],
+    "bbox": [
+        -155.20500183106,
+        19.285999298096,
+        0.9200000166893,
+        -121.79599761963,
+        58.058,
+        9.5
+    ]
+}
