@@ -24,5 +24,9 @@ for eq in all_eq:
         eq_names.append(eq["properties"]["title"])
 
 # visualize data
-fig = px.scatter_geo(lon=lons, lat=lats, size=mags)
+title = all_data["metadata"]["title"]
+fig = px.scatter_geo(lon=lons, lat=lats, size=mags, title=title, color=mags, 
+                    color_continuous_scale='viridis', 
+                    projection="natural earth", hover_name=eq_names, 
+                    labels={"color": "Magnitude"}) 
 fig.show() 
